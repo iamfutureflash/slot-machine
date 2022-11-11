@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<img src= "./public/mob_src.jpg" />
+<img src="./public/mob_src.jpg" alt="Loding" /> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
