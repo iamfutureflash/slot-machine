@@ -1,5 +1,9 @@
 # Getting Started with Create React App
+<<<<<<< HEAD
 <img src="./public/mob_scr.jpg" alt="Loding..." /> 
+=======
+<img src="./" alt="Loding" /> 
+>>>>>>> b141042 (added css yousing tailwind css)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

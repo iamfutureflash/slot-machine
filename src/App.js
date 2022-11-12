@@ -9,15 +9,7 @@ function App() {
     <SlotMachine x= '😄' y= '😄' z= '😄'/>
     <SlotMachine x= '👍' y= '😄' z= '🍌'/>
     <SlotMachine x= '💯' y= '😄' z= '😄'/>
-    <SlotMachine x= '😄' y= '😄' z= '😄'/>
-    <SlotMachine x= '👍' y= '😄' z= '🍌'/>
-    <SlotMachine x= '💯' y= '😄' z= '😄'/>
-    <SlotMachine x= '😄' y= '😄' z= '😄'/>
-    <SlotMachine x= '👍' y= '😄' z= '🍌'/>
-    <SlotMachine x= '💯' y= '😄' z= '😄'/>
-    <SlotMachine x= '😄' y= '😄' z= '😄'/>
-    <SlotMachine x= '👍' y= '😄' z= '🍌'/>
-    <SlotMachine x= '💯' y= '😄' z= '😄'/>
+    <SlotMachine x= '👍' y= '👍' z= '👍'/>
     </>
   );
 }
